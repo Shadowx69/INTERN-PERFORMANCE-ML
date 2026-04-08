@@ -1,6 +1,3 @@
-![Uploading RobinHoodFortuneTellerGIF (2).gif…]()
-
-
 #   Intern Performance Prediction System 
 
 
