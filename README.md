@@ -1,4 +1,7 @@
-# 🌟 Intern Performance Prediction System 🌟
+![RobinHoodFortuneTellerGIF](https://github.com/user-attachments/assets/39a2868a-ae57-4765-aeaa-f4df7239223e)
+
+#   Intern Performance Prediction System 
+
 
 A machine learning project designed to predict whether an intern is likely to excel, be strictly average, or struggle, based on three main parameters:
 - **Completion Time**
